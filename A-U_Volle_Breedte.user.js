@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        AAO Button Volle Breite
+// @name        A&U Button Volle Breedte
 // @namespace   bos-ernie.leitstellenspiel.de
 // @version     1.0.0
 // @license     BSD-3-Clause
