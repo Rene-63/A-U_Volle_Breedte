@@ -11,8 +11,8 @@
 // @run-at      document-idle
 // @grant       none
 // @resource    https://forum.leitstellenspiel.de/index.php?thread/27088-script-aao-button-volle-breite/
-// @downloadURL 
-// @updateURL   
+// @downloadURL https://github.com/Rene-63/A-U_Volle_Breedte/blob/main/A-U_Volle_Breedte.users.js
+// @updateURL   https://github.com/Rene-63/A-U_Volle_Breedte/blob/main/A-U_Volle_Breedte.users.js
 // ==/UserScript==
 
 (function () {
