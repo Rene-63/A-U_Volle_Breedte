@@ -10,9 +10,9 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @run-at      document-idle
 // @grant       none
-// @resource    https://forum.leitstellenspiel.de/index.php?thread/27088-script-aao-button-volle-breite/
-// @downloadURL https://github.com/Rene-63/A-U_Volle_Breedte/blob/main/A-U_Volle_Breedte.user.js
-// @updateURL   https://github.com/Rene-63/A-U_Volle_Breedte/blob/main/A-U_Volle_Breedte.user.js
+// @resource    https://forum.leitstellenspiel.de/index.php?thread/27088-script-aao-button-volle-breite/  (Het Duitse forum)
+// @downloadURL https://github.com/Rene-63/A-U_Volle_Breedte/raw/refs/heads/main/A-U_Volle_Breedte.user.js
+// @updateURL   https://github.com/Rene-63/A-U_Volle_Breedte/raw/refs/heads/main/A-U_Volle_Breedte.user.js
 // ==/UserScript==
 
 (function () {
